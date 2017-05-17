@@ -1,0 +1,2 @@
+# inayaMedicalCollege
+Inaya Medical College
